@@ -11,7 +11,7 @@ Our goal is to aggregate community best practices, *not* what GitHub (or any oth
 
 **Open Source Guides are a resource and a discussion forum.** One reason we started this project is because we felt that there weren't enough resources for people creating open source projects. We made these guides open source in hopes that you'll use this space to talk about best practices, then document them when you've found consensus. We'd like this to be a safe space to talk about what's hard, what's scary, and what's simply confusing about running open source projects.
 
-## roadmap
+## Roadmap
 
 We've shared our vision and priorities for this project in our [roadmap](docs/roadmap.md).
 
